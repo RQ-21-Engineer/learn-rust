@@ -1,1 +1,1 @@
-/home/kwisatzhaderach/Documents/Code/Programming\ Language/Rust/rionggo/binarysearchtree/bst/target/debug/binarysearchtree: /home/kwisatzhaderach/Documents/Code/Programming\ Language/Rust/rionggo/binarysearchtree/bst/src/main.rs
+/home/kwisatzhaderach/Documents/Code/Github/RQ/learn-rust/rionggo/binarysearchtree/target/debug/binarysearchtree: /home/kwisatzhaderach/Documents/Code/Github/RQ/learn-rust/rionggo/binarysearchtree/src/main.rs
